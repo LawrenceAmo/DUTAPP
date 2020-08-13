@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": false,
+      "restoreTime": "2020-08-13T06:37:07.1901586Z"
+    }
+  },
+  "parameters": {
+    "lindani.subscriptionId": {
+      "Type": "subscription",
+      "Value": "4d8c71e5-62c2-48cc-8bbd-deb4f17189e7"
+    },
+    "lindani.resourceName": {
+      "Type": null,
+      "Value": "lindani"
+    },
+    "mssql1.resourceGroupLocation": {
+      "Type": "location",
+      "Value": "southafricanorth"
+    },
+    "mssql1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "4d8c71e5-62c2-48cc-8bbd-deb4f17189e7"
+    },
+    "lindani.resourceGroupLocation": {
+      "Type": null,
+      "Value": "southafricanorth"
+    },
+    "lindani.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "DUTAPPS"
+    },
+    "mssql1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "DUTAPPS"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "4d8c71e5-62c2-48cc-8bbd-deb4f17189e7"
+    }
+  }
+}
